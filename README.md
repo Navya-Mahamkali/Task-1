@@ -1,10 +1,10 @@
 
-**📊 Task 1: Understanding Dataset & Data Types
-📌 Objective**
+**Task 1: Understanding Dataset & Data Types
+ Objective**
 
 The objective of this task is to understand the structure of datasets, identify different data types, analyze data quality, and evaluate the suitability of datasets for machine learning before building any models.
 
-**📁 Datasets Used**
+**Datasets Used**
 
 Titanic Dataset (titanic.xls)
 
@@ -14,7 +14,7 @@ Student Performance Dataset (student_performance.csv)
 
 Academic and behavioral data used to analyze student performance
 
-**🛠️ Tools & Technologies**
+**Tools & Technologies**
 
 Python
 
@@ -25,7 +25,7 @@ NumPy
 Jupyter Notebook (Anaconda)
 
 
-**🧪 Steps Performed**
+**Steps Performed**
 
 Loaded both datasets using Pandas.
 
@@ -43,7 +43,7 @@ Analyzed dataset size and evaluated ML suitability.
 
 Documented data quality issues such as missing values and class imbalance.
 
-**📂 Repository Structure**
+**Repository Structure**
 Task-1-Data-Understanding/
 │
 ├── titanic.xls
@@ -51,7 +51,7 @@ Task-1-Data-Understanding/
 ├── Task1_Data_Analysis.ipynb
 ├── README.md
 
-**📈 Key Observations**
+** Key Observations**
 
 Titanic dataset contains missing values and class imbalance, requiring preprocessing.
 
@@ -61,7 +61,7 @@ Both datasets are suitable for machine learning with appropriate preprocessing.
 
 Understanding data before modeling helps in selecting the right algorithms and improves performance.
 
-**✅ Outcome**
+** Outcome**
 
 This task helped in gaining a clear understanding of:
 
